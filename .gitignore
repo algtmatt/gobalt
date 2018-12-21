@@ -1,0 +1,5 @@
+gobalt/pkg/*
+.idea/
+gobalt/src/main
+gopkg.in/*
+github.com/*

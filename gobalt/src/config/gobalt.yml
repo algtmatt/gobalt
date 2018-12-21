@@ -1,0 +1,14 @@
+
+# The URL of the Salt API server
+url: "http://localhost/"
+
+# The listening port of the Salt API server
+port: 8000
+
+# Enable debug mode
+debug: false
+
+# TODO
+# username: Sundance Kid
+# password: etta4eva
+
